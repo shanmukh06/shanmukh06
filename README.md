@@ -1,6 +1,7 @@
 ## My Name is Sai. I am a CS Student.
-> I am a AI?ML Enthusiast
-> Studying in UPES
+> I am a AI?ML Enthusiast.
+> \nStudying in UPES.
+> Learning Python
 
 <!--
 **shanmukh06/shanmukh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
